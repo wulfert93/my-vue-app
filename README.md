@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bmicalculator
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# my-vue-app
+My first Vue App, where I play with the Vue fundamentals
+>>>>>>> f7ae3d6de15753b923bfd9b5f88cd46edb0fb47a
